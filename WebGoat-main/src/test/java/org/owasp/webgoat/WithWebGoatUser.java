@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: Copyright © 2024 WebGoat authors
+ * SPDX-FileCopyrightText: Copyright © 2024 WebGoat authors 12345
  * SPDX-License-Identifier: GPL-2.0-or-later
  */
 package org.owasp.webgoat;
